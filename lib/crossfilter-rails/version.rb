@@ -1,5 +1,5 @@
 module Crossfilter
   module Rails
-    VERSION = '1.3.1'
+    VERSION = '1.3.5'
   end
 end
